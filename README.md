@@ -1,0 +1,1 @@
+This project is to learn about pushing to and from Github using Git, as well as working on visually recreating the Google Homepage.
