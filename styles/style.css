@@ -8,3 +8,35 @@
 	top: 50%;
 	transform: translate(-50%, -152%);
 }
+
+.search-bar-div {
+	display: block;
+	height: 44px;
+	width: 584px;
+	margin: 0;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -45%);
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+	border-radius: 2px;
+}
+
+.search-bar {
+	border: none;
+	height: 34px;
+	padding: 0px;
+	margin: 0px;
+	width: 90%;
+	position: aboslute;
+	z-index: 6;
+	top: 50%;
+	transform: translate(0%, 9%);
+}
+
+.voice-logo {
+	height: 20px;
+	position: absolute;
+	padding-top: 12px;
+	padding-left: 25px;
+}
